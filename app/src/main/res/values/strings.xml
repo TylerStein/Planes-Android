@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="mapDisplay_default">---</string>
+    <string name="PlayerInfo">Display Info</string>
+    <string name="Move_Left">Left</string>
+    <string name="Move_Right">Right</string>
+    <string name="Move_Up">Up</string>
+    <string name="Move_Down">Down</string>
+    <string name="e">E</string>
+    <string name="se">SE</string>
+    <string name="s">S</string>
+    <string name="nw">NW</string>
+    <string name="n">N</string>
+    <string name="ne">NE</string>
+    <string name="sw">SW</string>
+    <string name="w">W</string>
+</resources>
